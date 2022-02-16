@@ -2,10 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sethreynolds400.github.io/categories/</loc>
+    <loc>http://example.com/categories/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sethreynolds400.github.io/</loc>
+    <loc>http://example.com/categories/hugo/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sethreynolds400.github.io/tags/</loc>
+    <loc>http://example.com/page/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/categories/shortcodes/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/2021-02-14-shortcodes-in-action/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/about/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/2014-04-02-hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/2014-04-02-getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.com/blog/2014-03-10-migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
